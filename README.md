@@ -1,4 +1,4 @@
-# cjencarnacion
+# Midterm Exam - Encarnacion
 
 Hi, my name is Christopher John H. Encarnacion
 I am currently in my 3rd year taking Bachelors Degree of Information Technology at Central Philippine University
